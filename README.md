@@ -3,10 +3,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmy8848&count_private=true&include_all_commits=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
 <p/>
-<p align="center">
-	<p align="center">Wechat ID <code>echo -n 'bGVlX3dlY2hhdHRpbmc=' | base64 -d</code></p>
-</p>
-
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
 
