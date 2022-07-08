@@ -3,10 +3,6 @@
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmy8848&count_private=true&include_all_commits=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
 <p/>
----
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/haoruilee/haoruilee/master/pic/pusheencode.gif" />
-
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=lmy8848&show_icons=true)
 
 ![Coverity Scan](https://img.shields.io/coverity/scan/315?color=%23FFFFF&label=QJ315&logo=QJ315&logoColor=%23FF22FF&style=plastic)
