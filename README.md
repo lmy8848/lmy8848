@@ -1,6 +1,6 @@
 [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc)
 ### Hi there 👋
-🌱 I’m currently learning JavaWeb&/JavaScript/C/C++
+🌱 I’m currently learning JavaWeb / JavaScript / C / C++
 <p>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=lmy8848&count_private=true&include_all_commits=true&show_icons=true&locale=cn&bg_color=45,36D1DC,5B86E5&text_color=FFFFFF&icon_color=fffe96&title_color=fffe96" />
 <p/>
