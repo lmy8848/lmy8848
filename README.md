@@ -2,8 +2,6 @@
 ### Hi there 👋
 🌱 I’m currently learning JavaWeb / JavaScript / C / C++
 
-
-<br>
 ![Coverity Scan](https://img.shields.io/coverity/scan/315?color=%23FFFFF&label=QJ315&logo=QJ315&logoColor=%23FF22FF&style=plastic)
 
 ### Languages and Tools
