@@ -2,7 +2,7 @@
 ### Hi there 👋
 🌱 I’m currently learning JavaWeb / JavaScript / C / C++
 
-![github stats](https://github-readme-stats.vercel.app/api?username=lmy8848&show_icons=true)
+
 <br>
 ![Coverity Scan](https://img.shields.io/coverity/scan/315?color=%23FFFFF&label=QJ315&logo=QJ315&logoColor=%23FF22FF&style=plastic)
 
